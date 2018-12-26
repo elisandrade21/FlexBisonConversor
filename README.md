@@ -11,6 +11,7 @@ sudo apt-get install flex
 sudo apt-get install bison
 
 Compilando os Arquivos 
+
 flex conversor.l
 
 bison -d conversor.y
