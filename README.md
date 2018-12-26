@@ -24,15 +24,15 @@ g++ conversor.tab.c lex.yy.c -o conversor
 O projeto trabalha com as escala celsius fahrenheit e kelvin, e não é case sensitive.
 Para converter um valor de uma temperatura a outra devemos informar um valor seguido da letra correspondente a sua escala [C/c, F/f, K/k] seguido do operador desenvolvido neste trabalho (=>) que deve preceder a letra que representa a escala que o valor será convertido. Observar os exemplos abaixo.
 
-- Exemplo 1
+- Exemplo 1:
 50 C => C
 Saída: 50
 
-- Exemplo 2
+- Exemplo 2:
 46 c => f
 Saída: 114.8
 
-- Exemplo 3
+- Exemplo 3:
 70 k => c
 Saída: -203.15
 
