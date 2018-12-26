@@ -3,6 +3,7 @@
 
 Inicializando o projeto 
 - Instalação do FLEX
+
 sudo apt-get install flex
 
 - Instalação do BISON
